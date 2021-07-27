@@ -65,4 +65,5 @@ class MemeGenerator extends Component {
     }
 }
 
+
 export default MemeGenerator
